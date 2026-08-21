@@ -76,12 +76,12 @@ Throughout the summer, profiling was tracked both across the specific target mod
 
 #### Baseline Coverage Report (May 2026):
 <!-- PLACEHOLDER FOR BEFORE SCREENSHOT -->
-![Baseline LCOV Coverage Report](https://via.placeholder.com/800x200?text=Insert+Before+LCOV+Report+Screenshot+Here)
+![Baseline LCOV Coverage Report](https://github.com/ManishBera05/WriterCoverageGSOC/blob/main/before.png)
 *Figure 1: Baseline LCOV report for `sw/source/core/text` showing 79.7% Line Coverage.*
 
 #### Final Coverage Report (August 2026):
 <!-- PLACEHOLDER FOR AFTER SCREENSHOT -->
-![Final LCOV Coverage Report](https://via.placeholder.com/800x200?text=Insert+After+LCOV+Report+Screenshot+Here)
+![Final LCOV Coverage Report](https://github.com/ManishBera05/WriterCoverageGSOC/blob/main/after.png)
 *Figure 2: Final LCOV report for `sw/source/core/text` showing 83.6% Line Coverage (+978 lines newly covered).*
 
 ---
