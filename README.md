@@ -1,8 +1,8 @@
 # Google Summer of Code 2026 Final Report
 ## Project: Improve Word Processor Test Coverage
 **Organization:** [LibreOffice / The Document Foundation](https://www.libreoffice.org/)  
-**Contributor:** [Manish Bera](https://github.com/ManishBera05) (GSoC 2025, 2026)
-**Mentor:** [Jonathan Clark]
+**Contributor:** [Manish Bera](https://github.com/ManishBera05) (GSoC 2025, 2026) <br>
+**Mentor:**  Jonathan Clark
 
 ---
 
